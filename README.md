@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sam Markelon
 
-I’m a quantitative researcher at [Proof Trading](https://www.prooftrading.com), cryptographer by training, and systems thinker by temperament. I recently completed my PhD in computer science at the University of Florida, where I worked at the intersection of provable security, adversarial robustness, and probabilistic data structures.
+I’m a quantitative researcher at [Proof Trading](https://www.prooftrading.com) and cryptographer by training. I recently completed my PhD in computer science at the University of Florida, where I worked at the intersection of provable security and data structures.
 
 You’ll find me online almost everywhere as `smarky7CD` (case-insensitive), or occasionally `smarky0x7cd`.
 
@@ -17,7 +17,6 @@ When I’m not working, I’m:
 - 🧠 Reading about philosophy, probability, or strange corners of American history and culture  
 - 🎥 Watching films (which I’ve recently started logging on [Letterboxd](https://letterboxd.com/smarky7cd/))  
 - 🎲 Playing poker, golf, or a round of bar trivia  
-- 🍝 Experimenting with new concoctions in the kitchen
 
 > You can learn more at my [personal site](https://smarky7cd.github.io).
 
